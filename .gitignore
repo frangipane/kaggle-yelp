@@ -1,0 +1,8 @@
+.ipynb_checkpoints
+*.csv
+features
+*.tgz
+*.gz
+cookies.txt
+synset_words.txt
+train_photos
